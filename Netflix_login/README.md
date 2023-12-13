@@ -1,8 +1,8 @@
-# Netflix Login Page Clone
+# Netflix Login Page
 
-![Netflix Clone Screenshot](/Netflix-login-page/Netflix%20Login%20Page.png)
+![Netflix Clone Screenshot](/Netflix_login/netflix_bg_img.jpg)
 
-This project is a clone of the Netflix login page, created for educational purposes.
+This project is a clone of the Netflix login page.
 
 ## Table of Contents
 
@@ -15,12 +15,12 @@ This project is a clone of the Netflix login page, created for educational purpo
 
 ## Demo
 
-Working in it, will added this to my [portfolio website](https://alihamas.com) or in github pages in future nearby.
+Go to my [portfolio website](http://alihamas.com/projects/login_pages/netflix_login) for Netflix Login Page clone demo.
 
 ## Features
 
 - Recreates the Netflix login page.
-- Provides a simple example of HTML, CSS and JavaScript for educational purposes.
+- How to made a dark glassmorphism eeffect.
 - Learn how to show and hide the password in JavaScript.
 
 ## Technologies
@@ -37,13 +37,9 @@ Working in it, will added this to my [portfolio website](https://alihamas.com) o
    git clone https://github.com/alihamasgh/Login-Pages.git
    ```
 
-2. Navigate to the Netflix Login Page directory:
+2. Close the VS Code/Terminal and Locate the login page folder in `Login-Pages` folder and open in VS Code.
 
-   ```bash
-   cd Login-Pages/Netflix-login-page
-   ```
-
-3. Open the `index.html` file in your web browser to view the Netflix Login Page clone.
+3. Open the `index.html` file of folder in your web browser to view the Netflix Login Page clone.
 
 ## Usage
 
