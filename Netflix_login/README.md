@@ -1,6 +1,6 @@
 # Netflix Login Page
 
-![Netflix Clone Screenshot](/Netflix_login/netflix_bg_img.jpg)
+![Netflix Clone Screenshot](/Netflix_login/Netflix_login_page.png)
 
 This project is a clone of the Netflix login page.
 
