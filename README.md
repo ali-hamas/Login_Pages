@@ -36,15 +36,9 @@ To get a local copy of this project up and running, follow these steps:
    git clone https://github.com/ali-hamas/Login_Pages.git
    ```
 
-2. Open the project directory:
+2. Open the folder for login page you want.
 
-   ```bash
-   cd Login_Pages
-   ```
-
-3. Open the folder for login page you want.
-
-4. Open the `index.html` file of that folder in your web browser to view the Login Page.
+3. Open the `index.html` file of folder in your web browser to view the Login Page.
 
 ## Usage
 
